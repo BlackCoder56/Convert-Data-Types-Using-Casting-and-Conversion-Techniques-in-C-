@@ -1,0 +1,14 @@
+/home/elisha/Desktop/C#/projects/type/conversion/bin/Debug/net8.0/conversion
+/home/elisha/Desktop/C#/projects/type/conversion/bin/Debug/net8.0/conversion.deps.json
+/home/elisha/Desktop/C#/projects/type/conversion/bin/Debug/net8.0/conversion.runtimeconfig.json
+/home/elisha/Desktop/C#/projects/type/conversion/bin/Debug/net8.0/conversion.dll
+/home/elisha/Desktop/C#/projects/type/conversion/bin/Debug/net8.0/conversion.pdb
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.AssemblyInfoInputs.cache
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.AssemblyInfo.cs
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.csproj.CoreCompileInputs.cache
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.dll
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/refint/conversion.dll
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.pdb
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.genruntimeconfig.cache
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/ref/conversion.dll
