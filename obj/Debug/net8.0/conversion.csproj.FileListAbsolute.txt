@@ -12,3 +12,4 @@
 /home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.pdb
 /home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.genruntimeconfig.cache
 /home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/ref/conversion.dll
+/home/elisha/Desktop/C#/projects/type/conversion/obj/Debug/net8.0/conversion.sourcelink.json
