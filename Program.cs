@@ -42,16 +42,38 @@
 // Console.WriteLine(result);
 
 // Using TryParse() method - string into an int
-string value = "102";
-int result = 0;
-if (int.TryParse(value, out result))
+// string value = "102";
+// int result = 0;
+// if (int.TryParse(value, out result))
+// {
+//     Console.WriteLine($"Measurement: {result}");
+// }
+// else
+// {
+//     Console.WriteLine("Unable to report the measurement.");
+// }
+
+// if (result > 0)
+//     Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+
+// Code challenge One
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+
+decimal total = 0m;
+string message = "";
+
+foreach (var value in values)
 {
-    Console.WriteLine($"Measurement: {result}");
-}
-else
-{
-    Console.WriteLine("Unable to report the measurement.");
+    decimal number; // stores the TryParse "out" value
+    if (decimal.TryParse(value, out number))
+    {
+        total += number;
+    }
+    else
+    {
+        message += value;
+    }
 }
 
-if (result > 0)
-    Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
